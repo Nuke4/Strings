@@ -3,6 +3,6 @@
  */
 public interface SentenceObject {
 
-    boolean endOfSentence = true;
+    boolean endOfSentence();
 
 }

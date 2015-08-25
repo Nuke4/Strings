@@ -14,5 +14,8 @@
         return word.compareToIgnoreCase(anotherWord.getWord());
     }
 
+    public boolean endOfSentence() {
+        return false;
+    }
 }
 

@@ -48,4 +48,8 @@ public class PunktuationMark extends Symbol implements SentenceObject {
     public boolean isEndOfSentence(){
         return endOfSentence;
     }
+
+    public boolean endOfSentence() {
+        return false;
+    }
 }

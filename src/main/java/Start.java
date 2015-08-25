@@ -11,12 +11,12 @@ import java.util.Scanner;
  * создает словарь и распечатывает его содержание к файлу TXT.
  */
 public class Start {
-
+    private static final  File FILE = new File ("Input.txt");
     private static Logger log = Logger.getLogger(Start.class);
     public static void main(String[] args) {
         SentenceParser parser = new SentenceParser();
         try {
-            parser.parse(new Scanner(new File("Input.txt")));
+            parser.parse(new Scanner(FILE));
             log.debug(parser);
         } catch (FileNotFoundException e) {
             System.out.println("Не могу открыть фаил Input.txt");
@@ -27,5 +27,7 @@ public class Start {
     }
 
 
-
+    public String getNameFile() {
+        return FILE.getName();
+    }
 }
