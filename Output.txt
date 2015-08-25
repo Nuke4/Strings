@@ -1,0 +1,115 @@
+6.	Напечатать слова текста в алфавитном порядке по первой 
+букве. Слова, начинающиеся с новой буквы, печатать с красной строки.
+
+    A 
+accuracy 
+addition 
+Affairs 
+all 
+also 
+and 
+Antarctica 
+are 
+Areas 
+as 
+at 
+authority 
+available 
+    based 
+Because 
+by 
+    census 
+chart 
+claims 
+collected 
+comparisons 
+compiled 
+concerned 
+conclusions 
+conducted 
+counted 
+countries 
+countries' 
+country 
+create 
+    data 
+date 
+decades 
+density 
+Department 
+dependent 
+Division 
+do 
+    Economic 
+entities 
+equal 
+error 
+estimate 
+estimates 
+European 
+every 
+    Figures 
+for 
+form 
+from 
+Furthermore 
+    graphical 
+    handful 
+have 
+high 
+    in 
+included 
+integral 
+    Kingdom 
+    level 
+list 
+    margin 
+may 
+misleading 
+most 
+    national 
+Nations 
+not 
+numerical 
+    of 
+off 
+on 
+Only 
+or 
+organizations 
+other 
+over 
+    part 
+parts 
+permanent 
+Population 
+populations 
+projections 
+providing 
+    regional 
+resulting 
+rounded 
+    same 
+see 
+Social 
+sovereign 
+states 
+such 
+    territories 
+that 
+the 
+this 
+time 
+to 
+total 
+    Union 
+United 
+up 
+updated 
+used 
+usually 
+    various 
+version 
+    where 
+world 
+Конец текста
